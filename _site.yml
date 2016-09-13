@@ -10,6 +10,8 @@ navbar:
       href: publication.html
     - text: "Software"
       href: software.html
+    - text: "Collaborations"
+      href: collaboration.html
     - text: "Openings"
       href: opening.html
     - text: "About"
