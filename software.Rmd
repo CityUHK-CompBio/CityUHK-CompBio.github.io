@@ -1,0 +1,11 @@
+---
+title: "Software"
+---
+
+### DeepCC
+A deep learning-based framework for cancer classification
+https://cityuhk-compbio.github.io/DeepCC/
+
+### HTSanalyzeR2
+A R pacakge for downstream analysis of high-throughput CRISPR/RNAi screens with interactive shiny report.
+https://bitbucket.org/maius-7/htsanalyzer2

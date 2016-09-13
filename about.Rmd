@@ -1,0 +1,17 @@
+---
+title: "About us"
+---
+
+# Research Interest
+
+Our major research interest is to better understand the biology underlying cancer using quantitative approaches. Especially, we have more passion in projects that bridge basic biological studies and clinical research. We have rich experience in integrative analysis of multilevel (epi)genomic data and clinical outcomes for dissecting cancer heterogeneity. Currently, our research consists of four parts:
+
+1. identifying and characterizing molecularly distinct cancer subtypes that are in relation to clinical responses;
+1. identifying prognostic and predictive cancer biomarkers that are more accessible in the clinic;
+1. identifying potential therapeutic targets using network-based approaches;
+1. developing bioconductor packages and web tools for analyzing next-generation sequencing data (SPP2), high-throughput screens (HTSanalyzeR), etc.
+
+# How to contact us
+
+Location: Y2322, AC1, City University of Hong Kong  
+Tel: (+852) 3442 6967

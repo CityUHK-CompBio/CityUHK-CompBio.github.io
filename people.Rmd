@@ -1,0 +1,16 @@
+---
+title: "People"
+---
+
+| | |
+|:----------------|:---------------------------------|
+|<img style="margin:0 10px 10px -10px" src="images/xw.jpg" width="200px"/>|**Dr Xin WANG**<br>**Assistant Professor, Department of Biomedical Sciences, City University of Hong Kong**<br>\
+Postdoctoral Fellow, Harvard Medical School<br>PhD, Department of Oncology and Cancer Research UK Cambridge Institute, University of Cambridge<br><br>Office:	1B-102, 1/F, Block 1, To Yuen Building<br>Phone:	+852 3442-2367<br>Fax:	+852 3442-0549<br>Email: xin.wang_at_cityu.edu.hk|
+|<img style="margin:0px 10px 10px -10px" src="images/gf.jpg" width="200px"/>|**Feng GAO**<br>PhD Student<br>B.E in Computer Science and Technology<br><br>Feng is mainly focusing on  applying artificial intelligence technologies such as deep learning to cancer research, including but not limited to *patient stratification, biomarker and target discovery.*<br><br>Linkedin: https://hk.linkedin.com/in/feng-gao-3b7bb33a|
+| |**Wei WANG**<br>PhD Student<br>M.S|
+| |**Duan XIN**<br>Visiting PhD Student<br>M.S|
+| |**Lan ZHAO**<br>PhD Student<br>M.S|
+| |**Yuchen ZHANG** <br>PhD Student<br>M.S|
+| |**Lina ZHU**<br>PhD Student<br>B.S in Bioinformatics|
+
+

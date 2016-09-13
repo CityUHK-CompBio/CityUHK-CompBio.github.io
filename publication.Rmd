@@ -1,0 +1,30 @@
+---
+title: "Publications"
+---
+
+### Selected Publications
+*(† co-first author; * co-corresponding author)
+
+#### 2016
+>1. Trinh A, Trumpi K, De Sousa E Melo F, **Wang X**, de Jong JH, Fessler E, Kuppen PJK, Reimers MS, Swets M, Koopman M, Nagtegaal I, Jansen M, Hooijer GKJ, Offerhaus GJ, Kranenburg O, Punt CJ, Medema JP, Markowetz F, Vermeulen L, Practical and Robust Identification of Molecular Subtypes in Colorectal Cancer by Immunohistochemistry, **Clinical Cancer Research** 2016, doi: 10.1158/1078-0432.CCR-16-0680
+1. Fessler E, Drost J, van Hooff SR, Linnekamp JF, **Wang X**, Jansen M, De Sousa E Melo F, Prasetyanti PR, IJspeert JEG, Franitza M, Nürnberg P, van Noesel CJM, Dekker E, Vermeulen L, Clevers H, and Medem JP, TGFβ signaling directs serrated adenomas to the mesenchymal colorectal cancer subtype, **EMBO Molecular Medicine** 2016, 8(7): 745–760, doi: 10.15252/emmm.201606184
+1. Fessler E, Jansen M, De Sousa E Melo F, Zhao L, Prasetyanti PR, Rodermond H, Kandimalla R, Linnekamp JF, Franitza M, van Hooff SR, de Jong JH, Oppeneer SC, van Noesel CJM, Dekker E, Stassi G, **Wang X\***, Medema JP\*, and Vermeulen L\*, A multidimensional network approach reveals microRNAs as determinants of the mesenchymal colorectal cancer subtype, **Oncogene** 2016, doi: 10.1038/onc.2016.134 (co-corresponding author)
+1. Masuda T, **Wang X**, Maeda M, Canver MC, Sher F, Funnell APW, Fisher C, Suciu M, Martyn GE, Norton LJ, Zhu C, Kurita R, Nakamura Y, Xu J, Higgs DR, Crossley M, Bauer DE, Orkin SH, Kharchenko PV, Maeda T, Transcription factors LRF and BCL11A independently repress expression of fetal hemoglobin, **Science** 2016, 351(6270):285-289
+
+#### 2015
+>1. Guinney J<sup>†</sup>, Dienstmann R<sup>†</sup>, **Wang X<sup>†</sup>**, de Reyniès A<sup>†</sup>, Schlicker A<sup>†</sup>, Soneson C<sup>†</sup>, Marisa L<sup>†</sup>, Roepman P<sup>†</sup>, Nyamundanda G<sup>†</sup>, Angelino P, Bot BM, Morris JS, Simon IM, Gerster S, Fessler E, De Sousa E Melo F, Missiaglia E, Ramay H, Barras D, Homicsko K, Maru D, Manyam GC, Broom B, Boige V, Perez-Villamil B, Laderas T, Salazar R, Gray JW, Hanahan D, Tabernero J, Bernards R, Friend SH, Laurent-Puig P, Medema JP, Sadanandam A, Wessels L, Delorenzi M, Kopetz S, Vermeulen L & Sabine Tejpar, The consensus molecular subtypes of colorectal cancer, **Nature Medicine** 2015, 10.1038/nm.3967
+1. Alekseyenko AA<sup>†</sup>, Walsh EM<sup>†</sup>, **Wang X<sup>†</sup>**, Grayson AR, Hsi PT, Kharchenko PV, Kuroda MI, and French CA, The oncogenic BRD4-NUT chromatin regulator drives aberrant transcription within large topological domains, **Genes Dev** 2015, 29: 1507-1523
+1. **Wang X** and Markowetz F, "Joining the dots–network analysis of gene perturbation data", book chapter, In Systems Genetics: linking phenotype and genotype, Markowetz F and Boutros M, Cambridge University Press, 2015
+
+#### 2014
+>1. Sadanandam A<sup>†</sup>, **Wang X<sup>†</sup>**, Felipe de Sousa E, Gray JW, Vermeulen L, Hanahan D, & Medema JP, Reconciliation of classification systems defining molecular subtypes of colorectal cancer, **Cell Cycle** 2014, 13(3): 353-357
+1. **Wang X**, Yuan K, Hellmayr C, Liu W and Markowetz F, Reconstructing evolving signaling networks by hidden Markov nested effects models, **Annals of Applied Statistics** 2014, 8(1): 448-480
+
+#### 2013
+>1. De Sousa E Mello, F<sup>†</sup>, **Wang X<sup>†</sup>**, Jansen M, Fessler E, Trinh A, et al., Poor prognosis colon cancer is defined by a distinct molecular subtype and develops from serrated precursor lesions, **Nature Medicine** 2013, 19(5): 614-618
+
+#### ~2012
+>1. Mulder KW, **Wang X**, Escriu C, Ito Y, Schwarz RF, Gillis J, et al., Diverse epigenetic strategies interact to control epidermal differentiation. **Nature Cell Biology** 2012, 14(7):753-763
+1. **Wang X**, Castro MA, Mulder KW and Markowetz F, Posterior association networks and functional modules inferred from rich phenotypes of gene perturbations. **PLoS Computational Biology** 2012, 8(6):e1002566
+1. Castro MA, **Wang X**, Fletcher M, Ponder BAJ, Meyer KB, Markowetz F, RedeR: R/Bioconductor package for representing modular structures, nested networks and multiple levels of hierarchical associations, **Genome Biology** 2012, 13:R29
+1. **Wang X<sup>†</sup>**, Terfve C<sup>†</sup>, Rose JC, Markowetz F, HTSanalyzeR: an R/Bioconductor package for integrated network analysis of high-throughput screens. **Bioinformatics** 2011, 27(6):879

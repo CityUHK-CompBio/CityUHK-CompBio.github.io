@@ -1,0 +1,24 @@
+name: "cityu_compbio_website"
+navbar:
+  title: "Computational Biology Lab @ CityU HK"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "People"
+      href: people.html
+    - text: "Publications"
+      href: publication.html
+    - text: "Software"
+      href: software.html
+    - text: "Openings"
+      href: opening.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: footer.html
+    css: styles.css
+output_dir: "."
