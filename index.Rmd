@@ -7,7 +7,8 @@ Hello, Welcome to our lab!
 Update:
 
 - 2016.09
-    + Wellcome Lina to join us! And Xin DUAN came back from Harbin!
+    + Lina joined our group. Wellcome Lina!
+    + Xin DUAN came back from Harbin!
 - 2016.08
     + Feng is awarded the Institutional Research Tuition Scholarships
     + Lan recieved the Outstanding Academic Performance Award
@@ -15,6 +16,6 @@ Update:
     + Lan visited AMC @ Amsterdam
     + Feng gave a talk @ ISMB2016, Orlando
 - 2016.06
-    + Welcome Yuchen to join us!
+    + Yuchen joined our group. Wellcome Yuchen!
     + Feng gave a talk @ UAI2016, NY
     + Feng is awarded the best poster award @ BMS Research Gala
