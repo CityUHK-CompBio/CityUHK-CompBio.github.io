@@ -2,7 +2,7 @@ name: "cityu_compbio_website"
 navbar:
   title: "Computational Biology Lab @ CityU HK"
   left:
-    - text: "Home"
+    - text: "News"
       href: index.html
     - text: "People"
       href: people.html

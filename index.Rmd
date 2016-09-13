@@ -3,3 +3,18 @@ title: "Lab Homepage"
 ---
 
 Hello, Wellcome to our lab!
+
+Update:
+
+- 2016.09
+    + Wellcome Lina join us! And Xin DUAN comes back from Harbin!
+- 2016.08
+    + Feng is awarded the Institutional Research Tuition Scholarships
+    + Lan recieved the Outstanding Academic Performance Award
+- 2016.07
+    + Lan visited AMC @ Amsterdam
+    + Feng gave a talk @ ISMB2016, Orlando
+- 2016.06
+    + Wellcome Yuchen join us!
+    + Feng gave a talk @ UAI, 2016 
+    + Feng is awarded the best poster award @ BMS Research Gala
