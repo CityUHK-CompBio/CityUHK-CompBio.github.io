@@ -10,7 +10,7 @@ Postdoctoral Fellow, Harvard Medical School, Dr. Peter Kharchenko<br>PhD, Depart
 |<img style="margin:0px 10px 10px -10px" src="images/wei.jpg" width="200px"/>|**Wei WANG**<br>PhD Student<br>M.S in Microbiology<br><br>Wei is currently working on cancer prognosis prediction, including building new model to predict relapse and identifying predictive biomarkers.|
 |<img style="margin:0px 10px 10px -10px" src="images/dx.jpg" width="200px"/>|**Duan XIN**<br>Visiting PhD Student<br>M.E in Pattern Recognition<br><br>He is currently working on bio-image processing and analysis.|
 |<img style="margin:0 10px 10px -10px" src="images/lan.jpg" width="200px"/>|**Lan ZHAO**<br>PhD Student<br>M.S in Molecular Biology<br><br>Good at experimental biology and next generation sequencing data analysis.|
-| |**Yuchen ZHANG** <br>PhD Student<br>M.S|
+|<img style="margin:0 10px 10px -10px" src="images/yuchen.png" width="200px"/>|**Yuchen ZHANG** <br>PhD Student<br>M.S|
 |<img style="margin:0px 10px 10px -10px" src="images/lina.jpg" width="200px"/> |**Lina ZHU**<br>PhD Student<br>B.S in Bioinformatics<br><br>She is the first year of PhD with a five-year bioinformatics undergraduate background, devote herself to the application of bioinformatics into epigenetics.|
 
 
