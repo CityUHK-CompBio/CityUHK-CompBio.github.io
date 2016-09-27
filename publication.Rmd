@@ -3,7 +3,7 @@ title: "Publications"
 ---
 
 ### Selected Publications
-*(† co-first author; * co-corresponding author)
+(† co-first author; * co-corresponding author)
 
 #### 2016
 >1. Trinh A, Trumpi K, De Sousa E Melo F, **Wang X**, de Jong JH, Fessler E, Kuppen PJK, Reimers MS, Swets M, Koopman M, Nagtegaal I, Jansen M, Hooijer GKJ, Offerhaus GJ, Kranenburg O, Punt CJ, Medema JP, Markowetz F, Vermeulen L, Practical and Robust Identification of Molecular Subtypes in Colorectal Cancer by Immunohistochemistry, **Clinical Cancer Research** 2016, doi: 10.1158/1078-0432.CCR-16-0680
