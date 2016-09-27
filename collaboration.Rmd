@@ -27,13 +27,13 @@ Prof. Andrew Yen & Jeffrey D. Varner
 <br><br>
 
 <img src="images/logo/huaxilogo.png" width="200px"/>  
-Sichuan University  
+West China Hospital, Sichuan University  
 Dr. Shengtao Zhou
 
 <br><br>
 
 <img src="images/logo/qelog.png" width="200px"/>  
-Queen Elizabeth Hospital
+Queen Elizabeth Hospital  
 Dr. Timothy Yip
 
 <br><br>
