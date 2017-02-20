@@ -19,12 +19,11 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
-<link rel="stylesheet"
-      href="site_libs/highlight/textmate.css"
-      type="text/css" />
-<script src="site_libs/highlight/highlight.js"></script>
 <style type="text/css">
   pre:not([class]) {
     background-color: white;
@@ -152,7 +151,6 @@ $(document).ready(function () {
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
-<script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
@@ -224,7 +222,6 @@ $(document).ready(function () {
 <ol style="list-style-type: decimal">
 <li>Yu VWC, Yusuf RZ, Oki T, Wu J, Saez B, <strong>Wang X</strong>, Cook C, Baryawno N, Ziller MJ, Lee E, Gu H, Meissner A, Lin CP, Kharchenko PV, Scadden DT, Epigenetic Memory Underlies Cell-Autonomous Heterogeneous Behavior of Hematopoietic Stem Cells, <strong>Cell</strong>, 167(5):1310 - 1322</li>
 <li>Trinh A, Trumpi K, De Sousa E Melo F, <strong>Wang X</strong>, de Jong JH, Fessler E, Kuppen PJK, Reimers MS, Swets M, Koopman M, Nagtegaal I, Jansen M, Hooijer GKJ, Offerhaus GJ, Kranenburg O, Punt CJ, Medema JP, Markowetz F, Vermeulen L, Practical and Robust Identification of Molecular Subtypes in Colorectal Cancer by Immunohistochemistry, <strong>Clinical Cancer Research</strong> 2016, doi: 10.1158/1078-0432.CCR-16-0680</li>
-<li>Trinh A, Trumpi K, De Sousa E Melo F, <strong>Wang X</strong>, de Jong JH, Fessler E, Kuppen PJK, Reimers MS, Swets M, Koopman M, Nagtegaal I, Jansen M, Hooijer GKJ, Offerhaus GJ, Kranenburg O, Punt CJ, Medema JP, Markowetz F, Vermeulen L, Practical and Robust Identification of Molecular Subtypes in Colorectal Cancer by Immunohistochemistry, <strong>Clinical Cancer Research</strong> 2016, doi: 10.1158/1078-0432.CCR-16-0680</li>
 <li>Fessler E, Drost J, van Hooff SR, Linnekamp JF, <strong>Wang X</strong>, Jansen M, De Sousa E Melo F, Prasetyanti PR, IJspeert JEG, Franitza M, Nürnberg P, van Noesel CJM, Dekker E, Vermeulen L, Clevers H, and Medem JP, TGFβ signaling directs serrated adenomas to the mesenchymal colorectal cancer subtype, <strong>EMBO Molecular Medicine</strong> 2016, 8(7): 745–760, doi: 10.15252/emmm.201606184</li>
 <li>Fessler E, Jansen M, De Sousa E Melo F, Zhao L, Prasetyanti PR, Rodermond H, Kandimalla R, Linnekamp JF, Franitza M, van Hooff SR, de Jong JH, Oppeneer SC, van Noesel CJM, Dekker E, Stassi G, <strong>Wang X*</strong>, Medema JP*, and Vermeulen L*, A multidimensional network approach reveals microRNAs as determinants of the mesenchymal colorectal cancer subtype, <strong>Oncogene</strong> 2016, doi: 10.1038/onc.2016.134 (co-corresponding author)</li>
 <li>Masuda T, <strong>Wang X</strong>, Maeda M, Canver MC, Sher F, Funnell APW, Fisher C, Suciu M, Martyn GE, Norton LJ, Zhu C, Kurita R, Nakamura Y, Xu J, Higgs DR, Crossley M, Bauer DE, Orkin SH, Kharchenko PV, Maeda T, Transcription factors LRF and BCL11A independently repress expression of fetal hemoglobin, <strong>Science</strong> 2016, 351(6270):285-289</li>
@@ -271,8 +268,11 @@ $(document).ready(function () {
 <script>
 
 // add bootstrap table styles to pandoc tables
-$(document).ready(function () {
+function bootstrapStylePandocTables() {
   $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
 });
 
 

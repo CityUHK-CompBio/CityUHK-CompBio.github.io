@@ -6,6 +6,8 @@ Hello, Welcome to our lab!
 
 Update:
 
+- 2017.02
+    + HTSanalyzeR2 moved to GitHub
 - 2016.09
     + Lina joined our group. Welcome Lina!
     + Xin DUAN came back from Harbin!

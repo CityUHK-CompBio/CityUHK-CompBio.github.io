@@ -8,4 +8,4 @@ https://cityuhk-compbio.github.io/DeepCC/
 
 ### HTSanalyzeR2
 A R pacakge for downstream analysis of high-throughput CRISPR/RNAi screens with interactive shiny report.
-https://bitbucket.org/maius-7/htsanalyzer2
+https://github.com/CityUHK-CompBio/HTSanalyzeR2
