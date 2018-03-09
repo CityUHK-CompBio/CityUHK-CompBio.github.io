@@ -6,6 +6,10 @@ Hello, Welcome to our lab!
 
 Update:
 
+- 2017.10
+    + Lin joined our group as visiting student from HEU!
+- 2017.08
+    + Hao and Ying joined our group as new PhD students. Welcome them!
 - 2017.02
     + HTSanalyzeR2 moved to GitHub
 - 2016.09
